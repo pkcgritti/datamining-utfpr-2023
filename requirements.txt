@@ -1,0 +1,6 @@
+jupyter==1.0.*
+pandas==2.0.*
+scikit-learn==1.2.*
+pyarrow==12.0.*
+matplotlib==3.7.*
+seaborn==0.12.*
